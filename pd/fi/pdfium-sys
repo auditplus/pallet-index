@@ -1,0 +1,1 @@
+{"name":"pdfium-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":true,"default_features":true,"target":null,"kind":"build","registry":"https://github.com/rust-lang/crates.io-index","package":null}],"cksum":"5dee694a754d9d21e4129299c110eaec64bf85775b77535f1ebbb4c69c1e37e9","features":{"default":["bindgen"]},"yanked":false,"links":null}
